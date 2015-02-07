@@ -1,3 +1,5 @@
+// Program Author: Juan Arrivillaga
+
 import java.util.Scanner;
 
 public class UserAuthentication {
