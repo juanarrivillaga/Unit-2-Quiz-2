@@ -14,9 +14,9 @@ public class UserAuthentication {
 		String query2 = input.next();
 		
 		
-	if(authentication(query1,query2)){
+		if(authentication(query1,query2)){
 		System.out.println("Hello "+ USERNAME);
-	} else System.out.println("Wrong username and/or password...");
+		} else System.out.println("Wrong username and/or password...");
 
 	}
 	
